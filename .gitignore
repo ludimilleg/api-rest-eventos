@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+
+# Banco de dados
+db.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
+
+# Ambiente virtual
+venv/
+
+# Banco de dados local
+db.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
+
+
